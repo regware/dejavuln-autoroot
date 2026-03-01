@@ -42,6 +42,7 @@ another exploit such as
    page.
 2. Extract the archive to the root directory of a USB drive. (It should be
    formatted with FAT32 or NTFS and only have one partition.)
+   **Ensure you do *not* add an extra `dejavuln-autoroot-x.y.z` directory!**
 3. Plug the USB drive into your TV. (Make sure it's the only USB drive
    connected.)
 4. Open the USB drive in the Music (or Media Player) app and browse to
